@@ -1,4 +1,4 @@
-# ARGOS - Sistema de Alerta Mecatrónico
+# ARGOS - Sistema de Alerta
 
 ARGOS es un sistema de alerta inalámbrico de ultra bajo consumo compuesto por dos dispositivos:
 - **Emisor:** Módulo portátil (collar/llavero) con botón de pánico en Deep Sleep.
