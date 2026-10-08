@@ -1,2 +1,8 @@
-# ARGOS-Alert-System
-Sistema de alerta de dos dispositivos para personas con discapacidad visual mediante ESP-NOW y ultra bajo consumo.
+# ARGOS - Sistema de Alerta Mecatrónico
+
+ARGOS es un sistema de alerta inalámbrico de ultra bajo consumo compuesto por dos dispositivos:
+- **Emisor:** Módulo portátil (collar/llavero) con botón de pánico en Deep Sleep.
+- **Receptor:** Módulo integrado en bastón con alerta sonora mediante ESP-NOW.
+
+## Estado del Proyecto
+Actualmente en fase de prototipado **P1** (Captura esquemática en KiCad para placa perforada).
